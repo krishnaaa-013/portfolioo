@@ -73,6 +73,15 @@
     width: 100%;
     opacity: 0.6;
 }
+.aboutt {
+        font-family:  'Segoe Script', cursive;
+        font-size: 5em;
+        color: #10a8d2;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        font-weight: bold;
+        font-size:5em;
+    }
     .skill-box span{
         font-size: 1.15em;
     }
